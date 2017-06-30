@@ -1,0 +1,16 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tsn.js",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "nedb": "^1.8.0"
+  },
+  "scripts": {
+"start":"node tsn.js"  
+},
+  "author": "",
+  "license": "ISC"
+}
